@@ -1,0 +1,7 @@
+<script>
+a = 5
+b = 5
+r = a + b
+nome = prompt()
+alert('olá' + nome + ' o valor final é de ' + r)
+</script>
